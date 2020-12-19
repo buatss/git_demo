@@ -4,8 +4,7 @@ SECOND COMMIT IN A ROW
 SECOND COMMIT INT A ROW AGAIn
 ten THIS IS GOING TO BE CHERRYPICKED
 lines AND THIS WILL BE CHERRYPICKED TOO
-changes done after pushing to remote
-xP
+created
 by
 vim
 :set number
