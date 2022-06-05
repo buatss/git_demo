@@ -5,6 +5,12 @@ second
 file
 with 
 ten
+<<<<<<< HEAD
 lines edited again
 created by
 vim text editor from branch git_1
+=======
+edited lines
+created by
+vim text editor from branch git_2
+>>>>>>> git_2
