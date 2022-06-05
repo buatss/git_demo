@@ -1,0 +1,10 @@
+and
+this 
+is
+second
+file
+with 
+ten
+lines
+created by
+vim text editor
