@@ -5,6 +5,6 @@ second
 file
 with 
 ten
-lines
+lines edited again
 created by
-vim text editor
+vim text editor from branch git_1
