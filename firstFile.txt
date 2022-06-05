@@ -1,5 +1,5 @@
-this
-is
+this ADDED MSG FROM GIT_1
+is ADDED MSG FROM GIT_1 AGAIN
 file
 with
 ten
