@@ -1,0 +1,10 @@
+this
+is
+file
+with
+ten
+lines
+created
+by
+vim
+:set number
