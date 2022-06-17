@@ -2,9 +2,12 @@ this ADDED MSG FROM GIT_1
 is ADDED MSG FROM GIT_1 AGAIN
 SECOND COMMIT IN A ROW
 SECOND COMMIT INT A ROW AGAIn
-ten
-lines
-created
+ten THIS IS GOING TO BE CHERRYPICKED
+lines AND THIS WILL BE CHERRYPICKED TOO
+changes done after pushing to remote
+xP
 by
 vim
-:set number
+:set numbe
+
+adsadsadasdas
